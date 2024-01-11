@@ -4,8 +4,8 @@ create or replace table ...... as
 
 with unicos as (
 
-select *, from 
-
-
+select *, from X_TABLA 
 
 )
+
+SELECT *, FROM unicos
